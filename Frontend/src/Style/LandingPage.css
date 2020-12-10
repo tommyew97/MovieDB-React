@@ -1,0 +1,60 @@
+.LandingPage {
+    background: linear-gradient(-45deg, #ee7752, royalblue, forestgreen, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 20s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+.land-flex {
+    /**background-color: royalblue;**/
+    height: 100%;
+    align-content: center;
+
+}
+
+.search-movie-button {
+    padding-left: 10px;
+}
+
+.SearchBar {
+    width: 50vw;
+    height: 7vh;
+}
+
+.button-search {
+    height: 50px;
+    padding-bottom: 10px;
+}
+
+.seeMore {
+}
+
+.land-page {
+    /**background-color: royalblue;**/
+    height: 96.5vh;
+    width: 100%;
+}
+
+.flex-1 {
+    padding-top: 20%;
+    justify-content: center;
+    align-content: center;
+}
+
+.flex-2 {
+    padding-top: 1%;
+    justify-content: center;
+    padding-right: 2%;
+}

@@ -1,0 +1,11 @@
+{
+    "experimentalComponentTesting": true,
+    "componentFolder": "./cypress/components",
+    "baseUrl": "http://localhost:3000",
+    "testFiles": "**/*.spec.*",
+    "env": {
+        "cypress-react-selector": {
+            "root": "#root"
+        }
+    }
+}

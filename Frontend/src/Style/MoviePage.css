@@ -1,0 +1,59 @@
+.MoviePage {
+    background: dimgray;
+}
+
+.MovieInfoRow {
+    padding-top: 4%;
+    justify-content: center;
+    padding-left: 10%;
+    width: 90%;
+
+}
+
+.jumbo {
+    background-color: white !important;
+}
+
+.log-in-button {
+    width: 100%;
+}
+
+.MoviePoster {
+    height: 420px;
+    width: auto;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: dimgray;
+}
+
+.revs-form {
+}
+
+.movie-img {
+    padding-top: 13px;
+    height: 360px;
+    width: 252px;
+}
+
+.ReviewCol {
+    max-width: 70%;
+}
+
+.Reviews { 
+    display: flex; 
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.list-group {
+    width: 100%;
+    justify-content: center;
+}
+
+svg {
+    /* min-width: 20%; */
+    width: 15%;
+    padding: 5% !important;
+    flex: fill;
+}

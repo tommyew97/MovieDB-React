@@ -1,0 +1,18 @@
+{
+    "extends": "../tsconfig.json",
+    "include": [
+        "../node_modules/cypress",
+        "./*/*.spec.tsx"
+    ],
+    "compilerOptions": {
+        "allowJs": true,
+        "noEmit": true,
+        "baseUrl": "http://localhost:3000",
+        "sourceType": "module",
+        "types": [
+            "node",
+            "cypress",
+            "cypress-react-selector"
+        ]
+    }
+}

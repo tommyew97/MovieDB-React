@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "title": "Code Name: K.O.Z.",
+    "genre": "Crime, Mystery",
+    "year": 2015,
+    "length": 114,
+    "description": "A look at the 17-25 December 2013 corruption scandal in Turkey, from the viewpoint of the Erdogan government.",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDhkOTQzN2UtZDJhMi00ZTkzLWJmYjctNmE0MjdmZDlmYjJlXkEyXkFqcGdeQXVyNTQzNzQ5OTE@._V1_SX300.jpg"
+},
+{
+    "id": 2,
+    "title": "Saving Christmas",
+    "genre": "Comedy, Family",
+    "year": 2014,
+    "length": 80,
+    "description": "Kirk is enjoying the annual Christmas party extravaganza thrown by his sister until he realizes he needs to help out Christian, his brother-in-law, who has a bad case of the bah-humbugs. ...",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MTc3Njc5MV5BMl5BanBnXkFtZTgwNzU3NDE4MjE@._V1_SX300.jpg"
+},
+{
+    "id": 3,
+    "title": "Daniel der Zauberer",
+    "genre": "Comedy, Crime, Fantasy",
+    "year": 2004,
+    "length": 81,
+    "description": "Evil assassins want to kill Daniel Kublbock, the third runner up for the German Idols.",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5OTM2MzAxM15BMl5BanBnXkFtZTcwNDA4MDMzMQ@@._V1_SX300.jpg"
+},
+{
+    "id": 4,
+    "title": "Manos: The Hands of Fate",
+    "genre": "Horror",
+    "year": 1966,
+    "length": 70,
+    "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWUzNGExMGEtYzcwNS00OGY5LWE3NmItNDcxZTQ3YjljNmE2XkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SX300.jpg"
+},
+{
+    "id": 5,
+    "title": "Pledge This!",
+    "genre": "Comedy",
+    "year": 2006,
+    "length": 91,
+    "description": "At South Beach University, a beautiful sorority president takes in a group of unconventional freshman girls seeking acceptance into her house.",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0MDk0Mjc1MF5BMl5BanBnXkFtZTcwODMyOTYzMQ@@._V1_SX300.jpg"
+}]

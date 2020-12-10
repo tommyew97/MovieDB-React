@@ -1,0 +1,9 @@
+.filter-movies {
+    width: 85px;
+    padding-right: 5%;
+    float: left;
+}
+
+.from-to-year {
+    padding-bottom: 3%;
+}

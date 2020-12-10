@@ -1,0 +1,30 @@
+.login-page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.login-page .content { /* entire card */
+    margin-top: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+}
+
+.login-page .login { /* Login card */
+    width: 20rem;
+}
+
+.login-page .login form { /* Login card content */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-page .login form button {
+    margin-top: 1em;
+}
+
+.login-page .login .username-field {
+    margin-bottom: 1em;
+}
